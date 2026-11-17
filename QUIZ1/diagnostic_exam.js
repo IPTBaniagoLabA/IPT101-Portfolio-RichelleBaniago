@@ -6,3 +6,6 @@ const studentProfile = {
 };
 
 console.log(studentProfile);
+
+//Sir Jonas: Logically, studentID vaue should be integer.
+//Sir Jonas: Why the object studentProfile is constant?
